@@ -2,7 +2,7 @@
 
 - Đối với câu hỏi lý thuyết, bạn viết ra một file .txt.
 - Thời gian làm bài 1 tiếng.
-- Các bạn tìm link nộp trong file tổng hợp link, tìm tới sheet gen của mình nhé.
+- Liên hệ TE đểấy link nộp bài nhé.
 
 ---
 
