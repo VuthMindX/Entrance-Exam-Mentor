@@ -2,7 +2,7 @@
 
 - Đối với câu hỏi lý thuyết, bạn viết ra một file .txt.
 - Thời gian làm bài 2h30’
-- Các bạn tìm link nộp trong file tổng hợp link, tìm tới sheet gen của mình nhé, chỉ chấp nhận những bài được nộp trên drive, bạn nào không biết link có thể inbox hỏi.
+- Liên hệ TE đểấy link nộp bài nhé
 - Tạo 1 folder họ và tên, nộp toàn bộ source code và những file liên quan. 
 
 ## HTML/CSS/JS
